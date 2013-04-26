@@ -1,6 +1,7 @@
-# One Month Rails
+# 1Size
 
-This is the sample application for
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+The purpose of this application is to allow the user keep track of their family, friends and even their own clothing and accessory measurements.
 
-by [Danielle M.]
+This application was created after completing a one month Ruby on Rails course. 
+
+by [Danielle Geraldine Marcos]
