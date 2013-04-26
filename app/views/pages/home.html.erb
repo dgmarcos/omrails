@@ -2,13 +2,15 @@
 	<h1> You're logged in!</h1>
 <% else %>
 	<div class="hero-unit">
-		<h1>Welcome to One Month Rails!</h1>
+		<h1>Welcome to 1Size!</h1>
 		<p>
-			You've found the home page for the 
-			<%= link_to "One Month Rails", "http://onemonthrails.com" %> application.
+			You are one step closer to learning about a few sizes you may need before purchasing that special gift. 
 		</p>
 		<p>
-			<%= link_to "Sign Up Now!", new_user_registration_path, class: "btn btn-success btn-large" %>
+			Don't remember you parent's shoe size or your girlfriend's hat size? No worries, by creating a free account you will be moments away from tracking all that important informtion. 
+		</p>	
+		<p>
+			<%= link_to "Don't Be Shy & Sign Up!", new_user_registration_path, class: "btn btn-success btn-large" %>
 		</p>
 	</div>
 <% end %>
